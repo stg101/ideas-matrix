@@ -28,7 +28,7 @@
   <link rel="apple-touch-icon" href="https://lightning.svbtle.com/assets/brand/icons/192-9216c5c09f25f296607b4df4b6501a5c7307ec7c11477677af8ad7880941ffc6.png">
   <link rel="mask-icon" href="https://lightning.svbtle.com/assets/brand/logo_svgized-4208d0bcb6e20fe57191808ed31b1f621288e30b59dda4ced6c9d9466e497b03.svg" color="black">
   <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="kPXZkeXrBnEv72VBEsQj2GXfoebBPMk0IyQa39y2K/pncDVEBwqASeC+fhoJSs1Nyec5QzwDCtXDL3Qb7B9efA==" />
+<meta name="csrf-token" content="iolBqUYSWVrCdzUVl62ZtP8ie1Mv2BXvjEVfCCd4F+cex6CJMYA95PNor1P86675mPIDgY89Ds/VybV940mKig==" />
   <script>(function(d) {var config = {kitId: 'ked7yva',scriptTimeout: 1000,async: true},h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)})(document);</script>
   <link rel="stylesheet" media="all" href="https://lightning.svbtle.com/assets/build.home-91cf8100766bcc7af589c9a2f8f92f67f2f8d2e136b7e25cff1bf7b4ec9abd93.css" data-turbolinks-track="reload" />
   <script src="https://lightning.svbtle.com/assets/build.home-77056a232e4a45b4106eeb8b9f63b2dfa3bc6d25bb3df6ab9ad827b0c03e6c83.js" data-turbolinks-track="reload"></script>
@@ -59,7 +59,7 @@
 
 <section id="container" class="normal form breathe">
   <h1 class="title smaller">Forgot password</h1>
-  <form class="keyable main_form" id="new_user" action="forgot" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="B+Tm9Fa5/SjBX4Hkly7/8i94R8db1+yLQj1bu7rEqunwYQohtFh7EA4Omr+MoBFng0DfYqboL2qiNjV/im3fbw==" />
+  <form class="keyable main_form" id="new_user" action="forgot" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="i0I7cTLvsRseo4uG1t3JftnuHyOoy8FfJCT7cYwW+xofDNpRRX3VpS+8EcC9m/4zvj5n8Qgu2n99qBEESCdmdw==" />
   
   <div class="input_box active last">
   <label for="user_login">Email address</label>

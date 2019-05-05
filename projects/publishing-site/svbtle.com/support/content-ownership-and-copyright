@@ -2,17 +2,17 @@
 <html lang="en">
 <head>
   <meta charset="utf-8">
-  <title>Uploading and using images • Svbtle Support</title>
+  <title>Content ownership and copyright • Svbtle Support</title>
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-41994323-1"></script>
   <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-41994323-1', {'send_page_view': false});</script>
-  <link rel="canonical" href="uploading-and-using-images">
+  <link rel="canonical" href="content-ownership-and-copyright">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Svbtle, a publishing platform.">
   <meta name="theme-color" content="#ffffff">
   <meta name="application-name" content="Svbtle">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://svbtle.com/support/uploading-and-using-images">
-  <meta property="og:title" content="Uploading and using images • Svbtle Support">
+  <meta property="og:url" content="https://svbtle.com/support/content-ownership-and-copyright">
+  <meta property="og:title" content="Content ownership and copyright • Svbtle Support">
   <meta property="og:description" content="Svbtle, a publishing platform.">
   <meta property="og:image" content="https://lightning.svbtle.com/assets/brand/logotype-43a675cdd95f8d6a949309ca77668f271ce90e992a2971d17da2dc4414524b91.png">
   <meta property="og:site_name" content="Svbtle">
@@ -26,7 +26,7 @@
   <link rel="apple-touch-icon" href="https://lightning.svbtle.com/assets/brand/icons/192-9216c5c09f25f296607b4df4b6501a5c7307ec7c11477677af8ad7880941ffc6.png">
   <link rel="mask-icon" href="https://lightning.svbtle.com/assets/brand/logo_svgized-4208d0bcb6e20fe57191808ed31b1f621288e30b59dda4ced6c9d9466e497b03.svg" color="black">
   <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="9U9M1J2w+xiSxp1isa5iEog87ZoQkSEcG+dCQynxZBgCyqABf1F9IF2XhjmqIIyHJAR1P+2u4v377CyHGVgRng==" />
+<meta name="csrf-token" content="5r1MmCjr2uckp7F+1OS5DllDRmTbzldmUqWMmamJpgBy8624X3m+WRW4Kzi/oo5DPpM+tnsrTEYLKWbsbbg7bQ==" />
   <link rel="stylesheet" media="all" href="https://lightning.svbtle.com/assets/legible/build.legible-a43bd031e05fccd6dc5a4fba8fb543b63bbe1794a88d9db8728fd5e815a0a31d.css" data-turbolinks-track="reload" />
   <script src="https://lightning.svbtle.com/assets/legible/build.legible.shim-3d361235339c4e8a6eae5f8211d39bdcb97458537dd72bc1806dd6a430721290.js" data-turbolinks-track="reload"></script>
   <script src="https://lightning.svbtle.com/assets/legible/build.legible-a36b8d9ab2de9d9dbe023a9acbcbee89c9caf74d0da5d333ed78834348c67560.js" data-turbolinks-track="reload"></script>
@@ -67,11 +67,13 @@
 <section id="support-main" class="support page navigable text">
   <section class="container">
     <h6><a href="../support">&larr; Svbtle support</a></h6>
-    <h1 class="">Uploading and using images</h1>
+    <h1 class="">Content ownership and copyright</h1>
 
-    <p>To add an image to an article, drag and drop it into the editor. Svbtle will automatically upload the image and paste the correct Markdown text into the editor.</p>
+    <p>You retain complete ownership of all text and images (&ldquo;content&rdquo;) you publish on Svbtle, and you can remove it from the service at any time and for any reason.</p>
 
-    <p>You can also paste embed <code>&lt;iframe&gt;</code> or JavaScript code from Twitter or YouTube into the editor.</p>
+    <p>However, the Svbtle site design, &ldquo;Svbtle&rdquo; name, and Svbtle logos are owned and copyrighted by Svbtle and may not be reproduced without permission.</p>
+
+    <p>Your content will remain available online as long as your account is active or for <em>at least</em> five years after you stop paying for the service. Learn more by reading our <a href="../promise">Forever Promise</a>.</p>
 
     <hr/>
 
@@ -102,6 +104,6 @@
   <p class="copyright">&copy;2019 Svbtle</p>
 </footer>
 
-<div id="page-data" data-controller="Support" data-action="uploading-and-using-images"></div>
+<div id="page-data" data-controller="Support" data-action="content-ownership-and-copyright"></div>
 </body>
 </html>

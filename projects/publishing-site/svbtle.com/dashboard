@@ -28,7 +28,7 @@
   <link rel="apple-touch-icon" href="https://lightning.svbtle.com/assets/brand/icons/192-9216c5c09f25f296607b4df4b6501a5c7307ec7c11477677af8ad7880941ffc6.png">
   <link rel="mask-icon" href="https://lightning.svbtle.com/assets/brand/logo_svgized-4208d0bcb6e20fe57191808ed31b1f621288e30b59dda4ced6c9d9466e497b03.svg" color="black">
   <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="+1ctMmjMELL5yUQ8lzmD0ScaGvB7TTmSCerSkpquWLcM0sHnii2WijaYX2eMt21EiyKCVYZy+nPp4bxWqgctMQ==" />
+<meta name="csrf-token" content="hhNJDu7OJe2Im6LZTECEmiLeOLz0IklgZusYMN5K9noSXagumVxBU7mEOJ8nBrPXRQ5AblTHUkA/Z/JFGntrFw==" />
   <script>(function(d) {var config = {kitId: 'ked7yva',scriptTimeout: 1000,async: true},h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)})(document);</script>
   <link rel="stylesheet" media="all" href="https://lightning.svbtle.com/assets/build.home-91cf8100766bcc7af589c9a2f8f92f67f2f8d2e136b7e25cff1bf7b4ec9abd93.css" data-turbolinks-track="reload" />
   <script src="https://lightning.svbtle.com/assets/build.home-77056a232e4a45b4106eeb8b9f63b2dfa3bc6d25bb3df6ab9ad827b0c03e6c83.js" data-turbolinks-track="reload"></script>
@@ -60,8 +60,15 @@
 <section id="container" class="normal form breathe">
   <h1 class="title">Log in</h1>
 
-  
-  <form class="keyable main_form" id="new_user" action="settings/blog" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="1Q6Ee1Fu4Hfj5t2YM81iEBkbE///gAxLAx/s8iWNZMYii2ius49mTyy3xsMoQ4yFtSOLWgK/z6rjFII2FSQRQA==" />
+  <div id="error_explanation">
+  <ul class="errors">
+    <li class="alert">
+      <p>Log in or sign up to continue.</p>
+    </li>
+  </ul>
+</div>
+
+  <form class="keyable main_form" id="new_user" action="settings/blog" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="D71IH1eDTshAYYf2zceF5bx6Go6Sv6ezPlzlRgWTwG2b86k/IBEqdnF+HbCmgbKo26piXDJavJNn0A8zwaJdAA==" />
   <div class="input_box active">
   <input placeholder="Username" class="active pane_input" autofocus="autofocus" type="text" name="user[login]" id="user_login" />
   </div>

@@ -1,0 +1,202 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Dashboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="shortcut icon" href="https://lightning.svbtle.com/assets/favicon-5ed3591b57f6a4f0d5cb82c6680b33bb1058fe757c71ccb094952824e7e00b17.ico">
+  <link rel="icon" sizes="196x196" href="https://lightning.svbtle.com/assets/apple-touch-icon-46ef722ec86669c235628c8ce6d7d6cf634bb7af91aa14aed5d9e52629a1949c.png">
+  <link rel="mask-icon" href="https://lightning.svbtle.com/assets/default-d31f6f2da1d2c55424ff6c05f10f35c76944917e33e8b5669a94db0023b704bd.svg" color="black">
+  <meta name="generator" content="Svbtle.com" />
+  <meta name="description" content="A blogging platform designed to help you think."/>
+  <meta property="twitter:card" content="summary" />
+  <meta property="twitter:site" content="@svbtle" />
+  <meta property="twitter:creator" content="@svbtle" />
+  <meta property="og:type" content="website" />
+  <meta property="og:image" content="https://lightning.svbtle.com/assets/icons/svbtle_logo-9d23a3cd9c04f70f55568656f4b02c0bc04f95439d8b42541dd3952887707644.png" />
+  <meta property="fb:app_id" content="346346195413177" />
+  <script>(function(d) {var config = {kitId: 'ked7yva',scriptTimeout: 1000,async: true},h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)})(document);</script>
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="8y110NBMQLDLslj0tfe0RI/o4ALgIF036TxKXv/qZYq+uDxkOwXOi92n3/jn0SI+OsACmL3s0LIkFd5OcsrhGg==" />  <link rel="stylesheet" media="all" href="https://lightning.svbtle.com/assets/build.overlord-3e99120d59e83991d55d28de531c2d813f8d2b905e9a4750e21efaa3e2192831.css" data-turbolinks-track="reload" />
+  <script src="https://lightning.svbtle.com/assets/build.overlord-711fb4a1fc86f98cc4adb5e7e3e2ce1d2687de2ec6a2ec8a0b813eaecc8d2d2f.js" data-turbolinks-track="reload"></script>
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-41994323-1');
+  ga('send', 'pageview');
+  </script>
+</head>
+<body class="overlord">
+<style scoped>
+figure#logo_top a:hover {
+  background-color: #21B553;
+}
+figure#logo_top:hover {
+  border-color: #21B553;
+}
+
+form#quickform ::-webkit-input-placeholder {
+  color: #21B553;
+}
+form#quickform textarea:-moz-placeholder,
+form#quickform :-moz-placeholder { /* Firefox 18- */
+  color: #777;
+}
+form#quickform textarea::-moz-placeholder,
+form#quickform ::-moz-placeholder {  /* Firefox 19+ */
+  color: #777;
+}
+form#quickform :-ms-input-placeholder {
+  color: #21B553;
+}
+form#quickform label {
+  color: #21B553;
+}
+form#quickform.active label {
+  color: #70d725;
+}
+li:hover a span.wordcount:hover {
+  color: #21B553;
+}
+section#leftup ul.ideas li:hover a {
+  background-color: #21B553;
+}
+div.describer_published {
+  background-color: #21B553;
+}
+#new_entry:hover {
+  background-color: #21B553;
+  border-color: #21B553;
+}
+@keyframes xPulse
+  {
+  0% {
+    border-color: #fff;
+  }
+  50% {
+    border-color: #21B553;
+  }
+  100% {
+    border-color: #fff;
+  }
+}
+@-moz-keyframes xPulse
+  {
+  0% {
+    border-color: #fff;
+  }
+  50% {
+    border-color: #21B553;
+  }
+  100% {
+    border-color: #fff;
+  }
+}
+@-webkit-keyframes xPulse
+  {
+  0% {
+    border-color: #fff;
+  }
+  25% {
+    border-color: #21B553;
+  }
+  100% {
+    border-color: #fff;
+  }
+}
+form div.input_box.active {
+  border-color: #21B553;
+}
+</style>
+<figure id="loading">&nbsp;</figure>
+<nav id="overlord" class="dashboard">
+  <figure id="logo_top" class="">
+    <a href="/">Svbtle</a>
+  </figure>
+  <h2 id="nav_title" class="">Dashboard</h2>
+  <figure id="hamburger">
+    <a href="#menu" id="hamburger_button">Menu</a>
+  </figure>
+  <ul id="dropdown" class="">
+    <li class="dropdown_logo">
+      <a href="/" class="logoize">svbtle</a>
+    </li>
+    <li><a href="https://svbtle.com/dashboard">dashboard</a></li>
+    <li><a href="https://svbtle.com/write">new entry</a></li>
+    <li><a href="https://santiagoyrupailla.svbtle.com" target="_blank">your blog</a></li>
+    
+    <li><a href="https://svbtle.com/settings">settings</a></li>
+    <li><a href="/support">support</a></li>
+    <li><a rel="nofollow" data-method="delete" href="/logout">log out</a></li>
+  </ul>
+</nav>
+<div id="whiteout"></div>
+
+
+<section id="twoup" class="clearfix">
+  <section id="leftup" class="ideas">
+    <h1><a href="/dashboard">Ideas</a>
+    </h1>
+    <a id="new_entry" href="/write">New entry</a>
+  <figure id="ideas_hero">
+    <img src="https://lightning.svbtle.com/assets/icons/home_head-9c706e08ea573dcf599d556ed21b0de56fb3f5eadc2e9e0ee63fc3e624142259.png" class="ideas_hero" alt="Brain" />
+  </figure>
+        <div class="describer">
+            <h3>Ideas are draft posts in progress.</h3>
+          <p>Create and work on ideas, links, and thoughts for posts here. When you&rsquo;re ready, publish them to the public.</p>
+          </p>
+        </div>
+    <div id="quickform_container">
+      <form class="keyable" id="quickform" action="/posts" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="FL1jUkkHlCOJw0Da7KkwVgY8/swAG352pYtUNNi2bVdZKCrmok4aGJ/Wx9a+j6YssxQcVl3X8/NoosAkVZbpxw==" />
+        <input id="quick_idea" type="text" value="true" name="quick_idea" style="display: none;" />
+        <label for="post_title">New idea</label>
+        <div class="pulseline input"></div>
+        <textarea placeholder="Start typing an idea title here..." class="pane_input autosize title" rows="1" name="post[title]" id="post_title">
+</textarea>
+</form>    </div>
+    <ul class="listing ideas">
+      <li class="idea">
+        <a href="/the-world-is-beautiful/edit">
+          <span class="title">The world is beautiful</span>
+        <span class="wordcount">
+          <span class="wordcount_mark">|</span>
+          <span class="wordcount_words">34&nbsp;Words</span>
+        </span>
+        </a>
+      </li>
+      <li class="idea">
+        <a href="/first-great-idea/edit">
+          <span class="title">First great idea</span>
+        </a>
+      </li>
+      <li class="idea">
+        <a href="/it-s-in-the-bag/edit">
+          <span class="title">It’s in the bag</span>
+        </a>
+      </li>
+    </ul>
+    
+  </section>
+  <section id="rightup" class="published">
+    
+
+    <h2><a href="/dashboard">Published</a>
+</h2>
+    <p class="no_posts">No published posts.</p>
+    <ul class="listing published">
+    </ul>
+    
+  </section>
+</section>
+<div id="lights">&nbsp;</div>
+<footer id="foot">
+  <figure id="logo_foot"><a href="https://svbtle.com">Svbtle</a></figure>
+  <a href="https://svbtle.com/terms" style="color: #ccc; margin-left: 25px;">Terms</a> <span style="color: #ccc;">•</span> <a href="https://svbtle.com/privacy" style="color: #ccc;">Privacy</a> 
+  <span style="color: #ccc;">•</span> <a href="https://svbtle.com/promise" style="color: #ccc; margin-right: 15px;">Promise</a>
+  <br/><br/>
+</footer>
+</body>
+</html>

@@ -7,7 +7,7 @@
   <meta charset="utf-8">
   <link rel="preconnect" href="https://lightning.svbtle.com" crossorigin>
   <link rel="preconnect" href="https://use.typekit.com" crossorigin>
-  <link rel="canonical" href="blog" />
+  <link rel="canonical" href="settings/blog" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="Svbtle, a publishing platform."/>
   <meta name="theme-color" content="#ffffff">
@@ -28,7 +28,7 @@
   <link rel="apple-touch-icon" href="https://lightning.svbtle.com/assets/brand/icons/192-9216c5c09f25f296607b4df4b6501a5c7307ec7c11477677af8ad7880941ffc6.png">
   <link rel="mask-icon" href="https://lightning.svbtle.com/assets/brand/logo_svgized-4208d0bcb6e20fe57191808ed31b1f621288e30b59dda4ced6c9d9466e497b03.svg" color="black">
   <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="QOUgbjLP3EW+hMgn0iZomVZfZNXtdluFgyA0w1C/ze63YMy70C5afXHV03zJqIYM+mf8cBBJmGRjK1oHYBa4aA==" />
+<meta name="csrf-token" content="JmDu133JCkaYFj9TVrROZgvAbChHSlbtwW2uk1DCA3qyLg/3Cltu+KkJpRU98nkrbBAU+uevTc2Y4UTmlPOeFw==" />
   <script>(function(d) {var config = {kitId: 'ked7yva',scriptTimeout: 1000,async: true},h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)})(document);</script>
   <link rel="stylesheet" media="all" href="https://lightning.svbtle.com/assets/build.home-91cf8100766bcc7af589c9a2f8f92f67f2f8d2e136b7e25cff1bf7b4ec9abd93.css" data-turbolinks-track="reload" />
   <script src="https://lightning.svbtle.com/assets/build.home-77056a232e4a45b4106eeb8b9f63b2dfa3bc6d25bb3df6ab9ad827b0c03e6c83.js" data-turbolinks-track="reload"></script>
@@ -38,20 +38,20 @@
 <figure id="loading">&nbsp;</figure>
 <nav id="overlord" class="">
   <figure id="logo_top" class="back">
-    <a href="../index.html">Svbtle</a>
+    <a href="index.html">Svbtle</a>
   </figure>
   <h2 id="nav_title" class="">Log in</h2>
   <figure id="hamburger">
-    <a href="blog#menu" id="hamburger_button">Menu</a>
+    <a href="settings/blog#menu" id="hamburger_button">Menu</a>
   </figure>
   <ul id="dropdown" class="">
     <li class="dropdown_logo">
-      <a href="../index.html" class="logoize">svbtle</a>
+      <a href="index.html" class="logoize">svbtle</a>
     </li>
-    <li><a href="../about">about</a></li>
-    <li><a href="../support">support</a></li>
-    <li><a href="../signup">sign up</a></li>
-    <li><a href="blog">log in</a></li>
+    <li><a href="about">about</a></li>
+    <li><a href="support">support</a></li>
+    <li><a href="signup">sign up</a></li>
+    <li><a href="settings/blog">log in</a></li>
     <li><a href="http://twitter.com/svbtle" target="_blank"><br/>@svbtle</a></li>
   </ul>
 </nav>
@@ -68,7 +68,7 @@
   </ul>
 </div>
 
-  <form class="keyable main_form" id="new_user" action="blog" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="VZ6po8YFS33bKbLJCbUhyyDAovUy5XPk5QnE9SH/23WiG0V2JOTNRRR4qZISO89ejPg6UM/asAUFAqoxEVau8w==" />
+  <form class="keyable main_form" id="new_user" action="settings/blog" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="iS1EDSjLRu24eWlveXtRalMh2NguaOleg8/zlLYWVP0dY6UtX1kiU4lm8ykSPWYnNPGgCo6N8n7aQxnhcifJkA==" />
   <div class="input_box active">
   <input placeholder="Username" class="active pane_input" autofocus="autofocus" type="text" name="user[login]" id="user_login" />
   </div>
@@ -77,20 +77,20 @@
   </div>
   <input value="true" type="hidden" name="user[remember_me]" id="user_remember_me" />
   <div class="submit_button">
-  <a href="blog#submit" class="buttonize submit_form" style="">log in</a> <a href="../forgot" class="forgot">Forgot&nbsp;your&nbsp;password?</a>
+  <a href="settings/blog#submit" class="buttonize submit_form" style="">log in</a> <a href="forgot" class="forgot">Forgot&nbsp;your&nbsp;password?</a>
   </div>
   <Br/><br/><br/>
 </form></section>
 <footer id="app_foot">
   <ul class="simple-footer plain clearfix">
-    <li class="appname"><a href="../index.html"><strong>Svbtle</strong></a></li>
-    <li class="hide "><a href="../about">About</a></li>
-    <li class="hide "><a href="../support">Support</a></li>
-    <li class="spacer hide "><a href="../terms">Terms</a></li>
-    <li class="hide "><a href="../privacy">Privacy</a></li>
-    <li class="hide "><a href="../promise">Promise</a></li>
-    <li class="spacer "><a href="../signup" data-turbolinks="false">Sign up</a></li>
-    <li class="active"><a href="blog" data-turbolinks="false">Log in</a></li>
+    <li class="appname"><a href="index.html"><strong>Svbtle</strong></a></li>
+    <li class="hide "><a href="about">About</a></li>
+    <li class="hide "><a href="support">Support</a></li>
+    <li class="spacer hide "><a href="terms">Terms</a></li>
+    <li class="hide "><a href="privacy">Privacy</a></li>
+    <li class="hide "><a href="promise">Promise</a></li>
+    <li class="spacer "><a href="signup" data-turbolinks="false">Sign up</a></li>
+    <li class="active"><a href="settings/blog" data-turbolinks="false">Log in</a></li>
     <li class="signature">
       <a href="https://neutralcorp.com" target="_blank">
         Signed: Neutral Corporation

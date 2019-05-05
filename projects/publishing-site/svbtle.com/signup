@@ -28,7 +28,7 @@
   <link rel="apple-touch-icon" href="https://lightning.svbtle.com/assets/brand/icons/192-9216c5c09f25f296607b4df4b6501a5c7307ec7c11477677af8ad7880941ffc6.png">
   <link rel="mask-icon" href="https://lightning.svbtle.com/assets/brand/logo_svgized-4208d0bcb6e20fe57191808ed31b1f621288e30b59dda4ced6c9d9466e497b03.svg" color="black">
   <meta name="csrf-param" content="authenticity_token" />
-<meta name="csrf-token" content="tPaK8KG+g73JKiMLEgBKfa0ABeAVe1dDcigXVyTgyc1Dc2YlQ18FhQZ7OFAJjqToATidRehElKKSI3mTFEm8Sw==" />
+<meta name="csrf-token" content="fxDk3qgyQip0PrxKJ4uxp3F+i+xiqL3NDjyC7S7rU7vrXgX+36AmlEUhJgxMzYbqFq7zPsJNpu1XsGiY6trO1g==" />
   <script>(function(d) {var config = {kitId: 'ked7yva',scriptTimeout: 1000,async: true},h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)})(document);</script>
   <link rel="stylesheet" media="all" href="https://lightning.svbtle.com/assets/build.home-91cf8100766bcc7af589c9a2f8f92f67f2f8d2e136b7e25cff1bf7b4ec9abd93.css" data-turbolinks-track="reload" />
   <script src="https://lightning.svbtle.com/assets/build.home-77056a232e4a45b4106eeb8b9f63b2dfa3bc6d25bb3df6ab9ad827b0c03e6c83.js" data-turbolinks-track="reload"></script>
@@ -67,7 +67,7 @@
 
   
 
-  <form class="main_form" id="new_user" action="signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="PPhLgCz6P21Pgu/MMbWFJn5HAl1jft1r43aA6POD7VzLfadVzhu5VYDT9JcqO2uz0n+a+J5BHooDfe4swyqY2g==" />
+  <form class="main_form" id="new_user" action="signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="DvApgwwqvtQTjJAUgwfUWvryp2J/7O/OopG84L0gCluavsije7jaaiKTClLoQeMXnSLfsN8J9O77HVaVeRGXNg==" />
 
   <div class="input_box active">
   <label for="user_email">Email</label>
