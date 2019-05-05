@@ -1,0 +1,180 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Sign up</title>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-41994323-1"></script>
+  <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-41994323-1');</script>
+  <meta charset="utf-8">
+  <link rel="preconnect" href="https://lightning.svbtle.com" crossorigin>
+  <link rel="preconnect" href="https://use.typekit.com" crossorigin>
+  <link rel="canonical" href="signup" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Svbtle, a publishing platform."/>
+  <meta name="theme-color" content="#ffffff">
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://svbtle.com/signup" />
+  <meta property="og:title" content="Sign up" />
+  <meta property="og:description" content="Svbtle, a publishing platform." />
+  <meta property="og:image" content="https://lightning.svbtle.com/assets/brand/logotype-43a675cdd95f8d6a949309ca77668f271ce90e992a2971d17da2dc4414524b91.png" />
+  <meta property="og:site_name" content="Svbtle" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@svbtle" />
+  <meta property="fb:app_id" content="346346195413177" />
+  <link rel="shortcut icon" href="https://lightning.svbtle.com/assets/brand/icons/favicon-9e7faafc69375588ccd502cc6aea0441e043d5ff5d1fdcbcbf4ea8c45885880a.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://lightning.svbtle.com/assets/brand/icons/32-6f4cb26755931977d9c0ce73cc2f04fc1c314648b1a63f0a0a8c7313b2e281d3.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://lightning.svbtle.com/assets/brand/icons/32-6f4cb26755931977d9c0ce73cc2f04fc1c314648b1a63f0a0a8c7313b2e281d3.png">
+  <link rel="icon" sizes="192x192" href="https://lightning.svbtle.com/assets/brand/icons/192-9216c5c09f25f296607b4df4b6501a5c7307ec7c11477677af8ad7880941ffc6.png">
+  <meta name="application-name" content="Svbtle">
+  <link rel="apple-touch-icon" href="https://lightning.svbtle.com/assets/brand/icons/192-9216c5c09f25f296607b4df4b6501a5c7307ec7c11477677af8ad7880941ffc6.png">
+  <link rel="mask-icon" href="https://lightning.svbtle.com/assets/brand/logo_svgized-4208d0bcb6e20fe57191808ed31b1f621288e30b59dda4ced6c9d9466e497b03.svg" color="black">
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="tPaK8KG+g73JKiMLEgBKfa0ABeAVe1dDcigXVyTgyc1Dc2YlQ18FhQZ7OFAJjqToATidRehElKKSI3mTFEm8Sw==" />
+  <script>(function(d) {var config = {kitId: 'ked7yva',scriptTimeout: 1000,async: true},h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)})(document);</script>
+  <link rel="stylesheet" media="all" href="https://lightning.svbtle.com/assets/build.home-91cf8100766bcc7af589c9a2f8f92f67f2f8d2e136b7e25cff1bf7b4ec9abd93.css" data-turbolinks-track="reload" />
+  <script src="https://lightning.svbtle.com/assets/build.home-77056a232e4a45b4106eeb8b9f63b2dfa3bc6d25bb3df6ab9ad827b0c03e6c83.js" data-turbolinks-track="reload"></script>
+</head>
+<body class="registrations new">
+
+
+<figure id="loading">&nbsp;</figure>
+<nav id="overlord" class="">
+  <figure id="logo_top" class="back">
+    <a href="index.html">Svbtle</a>
+  </figure>
+  <h2 id="nav_title" class="">Sign up</h2>
+  <figure id="hamburger">
+    <a href="signup#menu" id="hamburger_button">Menu</a>
+  </figure>
+  <ul id="dropdown" class="">
+    <li class="dropdown_logo">
+      <a href="index.html" class="logoize">svbtle</a>
+    </li>
+    <li><a href="about">about</a></li>
+    <li><a href="support">support</a></li>
+    <li><a href="signup">sign up</a></li>
+    <li><a href="settings/blog">log in</a></li>
+    <li><a href="http://twitter.com/svbtle" target="_blank"><br/>@svbtle</a></li>
+  </ul>
+</nav>
+<div id="whiteout"></div>
+
+<section id="container" class="normal form signup_user">
+  <h1 class="title">Hello</h1>
+
+  <p class="first"><span class="logoize">Svbtle</span> is a publishing platform. It costs $6 per month, so we can keep the lights on. You can learn more about the platform <a href="about" class="underline">here</a>. The first week is free. Let&rsquo;s get to know each other.</p>
+
+  <br/>
+
+  
+
+  <form class="main_form" id="new_user" action="signup" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="PPhLgCz6P21Pgu/MMbWFJn5HAl1jft1r43aA6POD7VzLfadVzhu5VYDT9JcqO2uz0n+a+J5BHooDfe4swyqY2g==" />
+
+  <div class="input_box active">
+  <label for="user_email">Email</label>
+  <input placeholder="What&#39;s your email?" class="active pane_input" autofocus="autofocus" data-magic="email" autocapitalize="off" type="text" name="user[email]" id="user_email" />
+  </div>
+
+  <div class="input_box">
+  <label for="user_password">Password</label>
+  <input placeholder="Choose a password" class="pane_input" autocapitalize="off" type="password" name="user[password]" id="user_password" />
+  </div>
+
+  <div class="input_box">
+  <label class="active" for="user_first_name">First name</label>
+  <input placeholder="First name" class="pane_input magic" data-magic="first_name" type="text" name="user[first_name]" id="user_first_name" />
+  <div class="fetching">&nbsp;</div>
+  </div>
+
+  <div class="input_box">
+  <label for="user_last_name">Last name</label>
+  <input placeholder="Last name" class="pane_input magic" data-magic="last_name" type="text" name="user[last_name]" id="user_last_name" />
+  <div class="fetching">&nbsp;</div>
+  </div>
+
+  <div class="input_box">
+  <label for="user_username">Username</label>
+  <div class="centerize">
+  <input placeholder="username" class="pane_input magic autoexpand nospaces blogname" data-magic="username" autocapitalize="off" autocorrect="off" type="text" name="user[username]" id="user_username" /><span class="input_text">.svbtle.com</span>
+  </div>
+  <p class="tooltip">Your username determines your Svbtle subdomain, where your blog is located. You can also add a custom domain in settings.</p>
+  <div class="fetching username">&nbsp;</div>
+  </div>
+
+  <div class="input_box bio" style="display: none;">
+  <label for="user_bio">Bio</label>
+  <textarea placeholder="Bio, e.g. Endocrinologist at UCSF. Piano player." class="pane_input autosize bio_box" autocomplete="off" data-magic="bio" rows="1" name="user[bio]" id="user_bio">
+</textarea>
+  <p class="tooltip">Your bio. Why should people listen to you? Did you found a company? Are you a researcher? An artist? Say so.</p>
+  </div>
+
+  <div class="input_box twitter" style="display: none;">
+  <label for="user_twitter">Twitter</label>
+  <div class="centerize">
+    <span class="input_text twitter">@</span><input placeholder="Twitter username" class="pane_input nospaces twitter" data-magic="twitter" style="display: inline; width: auto; margin-left: 0px; padding-left: 0px;" type="text" name="user[twitter]" id="user_twitter" />
+  </div>
+  <p class="tooltip">Your Twitter username.</p>
+  </div>
+
+  <div style="border-bottom: 1px solid #f0f0f0"></div>
+
+  <div class="plans clearfix cf">
+    <h2 class="plans_heading">Select a plan</h2>
+    <p>The first week is free. You can cancel at any time, and any content you&rsquo;ve published will remain online forever<sup><a href="signup#ref1">1</a></sup>.</p>
+    <ul class="plans">
+      <li class="plan monthly selected">
+        <p class="name">Monthly</p>
+        <p class="price">$6/mo</p>
+        <figure class="radio_button"><span>&nbsp;</span></figure>
+      </li>
+      <li class="plan yearly">
+        <p class="name">Yearly</p>
+        <p class="price">$70/yr</p>
+        <figure class="radio_button"><span>&nbsp;</span></figure>
+      </li>
+    </ul>
+  </div>
+
+  
+    <input value="monthly-6" id="user_plan" type="hidden" name="billing_subscription[plan]" />
+
+  <br/>
+  <div style="border-bottom: 1px solid #f0f0f0"></div>
+
+  <div class="submit_button">
+  <a href="signup#submit" class="buttonize submit_form" style="">Sign up</a><br/><br/>
+  <p>By clicking "Sign up", you are agreeing to our <a href="terms" class="underline">Terms of Service</a> and <a href="privacy" class="underline">Privacy Policy</a>.</p>
+  </div>
+
+
+</form>  <br/><br/><br/>
+
+  <div class="footnotes">
+  <ol class="footnotes">
+    <li id="ref1">
+    <p>1. Within reason. See our <a href="promise" style="border-bottom: 1px solid #ccc;">Forever Promise</a> for more information. You can remove your content at any time.</p>
+    </li>
+  </ol>
+  </div>
+</section>
+<footer id="app_foot">
+  <ul class="simple-footer plain clearfix">
+    <li class="appname"><a href="index.html"><strong>Svbtle</strong></a></li>
+    <li class="hide "><a href="about">About</a></li>
+    <li class="hide "><a href="support">Support</a></li>
+    <li class="spacer hide "><a href="terms">Terms</a></li>
+    <li class="hide "><a href="privacy">Privacy</a></li>
+    <li class="hide "><a href="promise">Promise</a></li>
+    <li class="spacer active"><a href="signup" data-turbolinks="false">Sign up</a></li>
+    <li class=""><a href="settings/blog" data-turbolinks="false">Log in</a></li>
+    <li class="signature">
+      <a href="https://neutralcorp.com" target="_blank">
+        Signed: Neutral Corporation
+      </a>
+    </li>
+  </ul>
+  <p class="copyright">&copy;2019 Svbtle</p>
+</footer>
+
+<div id="page-data" data-controller="UsersRegistrations" data-action="new"></div>
+</body>
+</html>

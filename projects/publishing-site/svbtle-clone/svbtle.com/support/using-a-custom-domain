@@ -1,0 +1,115 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Using a custom domain • Svbtle Support</title>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-41994323-1"></script>
+  <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-41994323-1', {'send_page_view': false});</script>
+  <link rel="canonical" href="using-a-custom-domain">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Svbtle, a publishing platform.">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="application-name" content="Svbtle">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://svbtle.com/support/using-a-custom-domain">
+  <meta property="og:title" content="Using a custom domain • Svbtle Support">
+  <meta property="og:description" content="Svbtle, a publishing platform.">
+  <meta property="og:image" content="https://lightning.svbtle.com/assets/brand/logotype-43a675cdd95f8d6a949309ca77668f271ce90e992a2971d17da2dc4414524b91.png">
+  <meta property="og:site_name" content="Svbtle">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@svbtle">
+  <meta property="fb:app_id" content="346346195413177">
+  <link rel="shortcut icon" href="https://lightning.svbtle.com/assets/brand/icons/favicon-9e7faafc69375588ccd502cc6aea0441e043d5ff5d1fdcbcbf4ea8c45885880a.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://lightning.svbtle.com/assets/brand/icons/32-6f4cb26755931977d9c0ce73cc2f04fc1c314648b1a63f0a0a8c7313b2e281d3.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://lightning.svbtle.com/assets/brand/icons/32-6f4cb26755931977d9c0ce73cc2f04fc1c314648b1a63f0a0a8c7313b2e281d3.png">
+  <link rel="icon" sizes="192x192" href="https://lightning.svbtle.com/assets/brand/icons/192-9216c5c09f25f296607b4df4b6501a5c7307ec7c11477677af8ad7880941ffc6.png">
+  <link rel="apple-touch-icon" href="https://lightning.svbtle.com/assets/brand/icons/192-9216c5c09f25f296607b4df4b6501a5c7307ec7c11477677af8ad7880941ffc6.png">
+  <link rel="mask-icon" href="https://lightning.svbtle.com/assets/brand/logo_svgized-4208d0bcb6e20fe57191808ed31b1f621288e30b59dda4ced6c9d9466e497b03.svg" color="black">
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="BqdwliUiuKafZTbhJFBLCzkZg4mlpejXJCtRvp/e+RHxIpxDx8M+nlA0Lbo/3qWelSEbLFiaKzbEID96r3eMlw==" />
+  <link rel="stylesheet" media="all" href="https://lightning.svbtle.com/assets/legible/build.legible-a43bd031e05fccd6dc5a4fba8fb543b63bbe1794a88d9db8728fd5e815a0a31d.css" data-turbolinks-track="reload" />
+  <script src="https://lightning.svbtle.com/assets/legible/build.legible.shim-3d361235339c4e8a6eae5f8211d39bdcb97458537dd72bc1806dd6a430721290.js" data-turbolinks-track="reload"></script>
+  <script src="https://lightning.svbtle.com/assets/legible/build.legible-a36b8d9ab2de9d9dbe023a9acbcbee89c9caf74d0da5d333ed78834348c67560.js" data-turbolinks-track="reload"></script>
+</head>
+<body>
+<nav id="app_nav">
+  <a id="nav_title" href="../index.html">Svbtle<span class="chevron-right"></span></a>
+  <a class="push_to_close">Close</a>
+  <ul id="page_nav" class="plain">
+    <li>
+      <a href="../index.html">
+        <span class="title">Home</span><span class="arrow"></span>
+      </a>
+    </li>
+    <li>
+      <a href="../about" class="">
+        <span class="title">About</span><span class="arrow"></span>
+      </a>
+    </li>
+    <li>
+      <a href="../support">
+        <span class="title">Support</span><span class="arrow"></span>
+      </a>
+    </li>
+    <li class="small spacer">
+      <a href="../signup">
+        <span class="title">Sign up</span><span class="arrow"></span>
+      </a>
+    </li>
+    <li class="small">
+      <a href="../settings/blog">
+        <span class="title">Log in</span><span class="arrow"></span>
+      </a>
+    </li>
+  </ul>
+</nav>
+
+<section id="support-main" class="support page navigable text">
+  <section class="container">
+    <h6><a href="../support">&larr; Svbtle support</a></h6>
+    <h1 class="">Using a custom domain</h1>
+
+    <p>To set up a custom domain with Svbtle, you need to create special records at your DNS provider. Svbtle only supports A-records.</p>
+    <ul>
+      <li><p><strong>If you&rsquo;re using a subdomain, like <em>blog.yourdomain.com</em></strong>, create a single A-record at your DNS provider for <em>blog.yourdomain.com</em> that points to <code>107.20.198.228</code></p></li>
+      <li><p><strong>If you&rsquo;re using a naked domain, like <em>yourdomain.com</em></strong>, create two A-records at your DNS provider: one for <em>www.yourdomain.com</em> and another for <em>yourdomain.com</em>. Both should point to <code>107.20.198.228</code></p>
+    </ul>
+
+    <p>The exact method for creating A-records differs depending on your domain registrar and/or DNS service.</p>
+
+    <p>Once you&rsquo;ve created the correct DNS records, it may take up to twenty-four hours to take effect. When your DNS settings have taken effect, log in to Svbtle and add your domain to the <a href="../settings/blog">Blog section of Settings</a>. Type only &ldquo;yourdomain.com&rdquo; or &ldquo;blog.yourdomain.com&rdquo; (don’t add &ldquo;www.&rdquo; or &ldquo;http://&rdquo;) in the &ldquo;custom domain&rdquo; box.</p>
+
+    <hr/>
+
+    <p>If you&rsquo;d like <code>HTTPS</code> support, which is in beta, please <a href="mailto:hello@svbtle.com?subject=HTTPS">email us</a> and we we&rsquo;ll enable it for you.</p>
+
+    <p>If you need more help, send us an email: <a href="mailto:hello@svbtle.com?subject=Custom%20domain%20help" class="">hello@svbtle.com</a>.</p>
+
+    <hr>
+
+    <a href="../support" class="harsh tiny">Back to support</a>
+  </section>
+</section>
+<hr class="fullwidth">
+<footer id="app_foot">
+  <ul class="simple-footer plain clearfix">
+    <li class="appname"><a href="../index.html"><strong>Svbtle</strong></a></li>
+    <li class=""><a href="../about">About</a></li>
+    <li class="active"><a href="../support">Support</a></li>
+    <li class="spacer "><a href="../terms">Terms</a></li>
+    <li class=""><a href="../privacy">Privacy</a></li>
+    <li class=""><a href="../promise">Promise</a></li>
+    <li class="spacer "><a href="../signup" data-turbolinks="false">Sign up</a></li>
+    <li class=""><a href="../settings/blog" data-turbolinks="false">Log in</a></li>
+    <li class="signature">
+      <a href="https://neutralcorp.com" target="_blank">
+        Signed: Neutral Corporation
+      </a>
+    </li>
+  </ul>
+  <p class="copyright">&copy;2019 Svbtle</p>
+</footer>
+
+<div id="page-data" data-controller="Support" data-action="using-a-custom-domain"></div>
+</body>
+</html>

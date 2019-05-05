@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Forever Promise</title>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-41994323-1"></script>
+  <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-41994323-1', {'send_page_view': false});</script>
+  <link rel="canonical" href="promise">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Svbtle, a publishing platform.">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="application-name" content="Svbtle">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://svbtle.com/promise">
+  <meta property="og:title" content="Forever Promise">
+  <meta property="og:description" content="Svbtle, a publishing platform.">
+  <meta property="og:image" content="https://lightning.svbtle.com/assets/brand/logotype-43a675cdd95f8d6a949309ca77668f271ce90e992a2971d17da2dc4414524b91.png">
+  <meta property="og:site_name" content="Svbtle">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@svbtle">
+  <meta property="fb:app_id" content="346346195413177">
+  <link rel="shortcut icon" href="https://lightning.svbtle.com/assets/brand/icons/favicon-9e7faafc69375588ccd502cc6aea0441e043d5ff5d1fdcbcbf4ea8c45885880a.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://lightning.svbtle.com/assets/brand/icons/32-6f4cb26755931977d9c0ce73cc2f04fc1c314648b1a63f0a0a8c7313b2e281d3.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://lightning.svbtle.com/assets/brand/icons/32-6f4cb26755931977d9c0ce73cc2f04fc1c314648b1a63f0a0a8c7313b2e281d3.png">
+  <link rel="icon" sizes="192x192" href="https://lightning.svbtle.com/assets/brand/icons/192-9216c5c09f25f296607b4df4b6501a5c7307ec7c11477677af8ad7880941ffc6.png">
+  <link rel="apple-touch-icon" href="https://lightning.svbtle.com/assets/brand/icons/192-9216c5c09f25f296607b4df4b6501a5c7307ec7c11477677af8ad7880941ffc6.png">
+  <link rel="mask-icon" href="https://lightning.svbtle.com/assets/brand/logo_svgized-4208d0bcb6e20fe57191808ed31b1f621288e30b59dda4ced6c9d9466e497b03.svg" color="black">
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="98IaqTm1pcVVnJRYwNTfmNYrakthyUFxFmhPLoRwsVIAR/Z821Qj/ZrNjwPbWjENehPy7pz2gpD2YyHqtNnE1A==" />
+  <link rel="stylesheet" media="all" href="https://lightning.svbtle.com/assets/legible/build.legible-a43bd031e05fccd6dc5a4fba8fb543b63bbe1794a88d9db8728fd5e815a0a31d.css" data-turbolinks-track="reload" />
+  <script src="https://lightning.svbtle.com/assets/legible/build.legible.shim-3d361235339c4e8a6eae5f8211d39bdcb97458537dd72bc1806dd6a430721290.js" data-turbolinks-track="reload"></script>
+  <script src="https://lightning.svbtle.com/assets/legible/build.legible-a36b8d9ab2de9d9dbe023a9acbcbee89c9caf74d0da5d333ed78834348c67560.js" data-turbolinks-track="reload"></script>
+</head>
+<body>
+<nav id="app_nav">
+  <a id="nav_title" href="index.html">Svbtle<span class="chevron-right"></span></a>
+  <a class="push_to_close">Close</a>
+  <ul id="page_nav" class="plain">
+    <li>
+      <a href="index.html">
+        <span class="title">Home</span><span class="arrow"></span>
+      </a>
+    </li>
+    <li>
+      <a href="about" class="">
+        <span class="title">About</span><span class="arrow"></span>
+      </a>
+    </li>
+    <li>
+      <a href="support">
+        <span class="title">Support</span><span class="arrow"></span>
+      </a>
+    </li>
+    <li class="small spacer">
+      <a href="signup">
+        <span class="title">Sign up</span><span class="arrow"></span>
+      </a>
+    </li>
+    <li class="small">
+      <a href="settings/blog">
+        <span class="title">Log in</span><span class="arrow"></span>
+      </a>
+    </li>
+  </ul>
+</nav>
+
+<section id="legal-main" class="page navigable text">
+  <section class="container">
+    <h1 class="">Forever Promise</h1>
+    <h2>We hate when the services we use and love are shut down. So Svbtle comes with a promise: your content will remain online forever.</h2>
+  </section>
+  <section class="container text">
+    <p>Apps and services are shut down too often, and our content tends to either get lost completely or we are forced to tediously transition it to yet another service of questionable longevity. Because we initially built Svbtle to solve our own frustrations, we feel an unusual sense of duty to our users. This service must endure.</p>
+    <hr class="fullwidth">
+    <p>Svbtle is proud to make a few promises:</p>
+    <ol>
+      <li><p>We promise to do everything in our power to ensure that any content you publish on the platform will continue to be available on the web forever, at the same permanent link, as long as you want it there. This promise even applies after you stop your subscription to the service. (For more details see the small print <a href="promise#footnote-a">below</a>.)</p></li>
+      <li><p>As long as you continue paying for the Svbtle service at its contemporaneous rate, you will be able to publish new content. This essentially means that we promise to never shut down the blogging platform service.</p></li>
+      <li><p>If Svbtle, <a href="https://neutralcorporation.com" target="_blank">its parent corporation</a>, or any affiliated entities are acquired, purchased, or taken majority control of by a third party in a way that would negatively impact the service, we will do everything in our power to ensure that the above two promises endure as part of any legal agreements into which we enter.</p></li>
+    </ol>
+
+    <p>We are a small company with low costs that are covered by paying customers. And while we hope to continue growing, we also hope to maintain a sense of dedication to how we treat our customer and user data. These promises reflect how we want our own content to be treated. In that way, both the Svbtle service and its customers&rsquo; interests are fully aligned. We like it that way.</p>
+
+    <p>If you have any questions or concerns about these promises, please say hello: <a href="mailto:hello@svbtle.com">hello@svbtle.com</a>.</p>
+
+    <p>If you're not yet a member: <a href="signup" class="harsh tiny">Sign up</a></p>
+
+    <hr class="fullwidth">
+
+    <ol class="footnotes alpha">
+      <li id="footnote-a">
+        <p>&ldquo;Content&rdquo; refers to user-generated data and the structural organization of that data on the Svbtle.com domain or subdomains. Such Content includes text and images included in blog posts that were authored by human paying customers on the Svbtle service using Svbtle-provided tools including the Svbtle.com website. Such Content does <i>not</i> include externally-linked or embedded data or illegal data. It also does not include data that violates our <a href="terms">Terms of Service</a> or <a href="privacy">Privacy Policy</a>.</p>
+      </li>
+      <li>
+        <p>&ldquo;Available&rdquo; means that the Content is accessible at a permanent URI on the Svbtle.com domain or subdomains. This policy applies to blogs using a custom domain, but the data preservation promise only covers access to Content via the permanent alternative Svbtle.com subdomain name (we can&rsquo;t promise to keep domain registrations and DNS records up-to-date).</p>
+      </li>
+      <li>
+        <p>&ldquo;Forever&rdquo; means until the HTML-based &ldquo;web&rdquo; is no longer generally accessible or until Svbtle or its parent company becomes financially insolvent (which we intend to avoid given that users pay for the service).</p>
+      </li>
+      <li>
+        <p>Some early users of Svbtle are able to access the service without charge. These promises do not apply to those members unless they begin paying for the service. (Free users can begin paying by adding their details to <a href="account">Account Settings</a>).</p>
+      </li>
+      <li>
+        <p>These promises apply to Content added by accounts that have remained active and in good standing for at least three months, even if subscriptions to those accounts have been canceled. New Content can only be added to accounts with active subscriptions.</p>
+      </li>
+      <li>
+        <p>The above promises only apply to Content that a reasonable person would conclude was added to the service as blog posts in good faith. Svbtle is not a file storage service and is not intended to be used as a content archive.</p>
+      </li>
+      <li>
+        <p>These policies are not a guarantee and they are limited by our <a href="terms">Terms of Service</a> agreement and <a href="privacy">Privacy Policy</a> and any of these agreements or policices are subject to change at any time.</p>
+      </li>
+    </ol>
+    <hr>
+    <h3>Changelog</h3>
+    <p>This Promise was last modified on Saturday, April 6th, 2019.</p>
+    <ul>
+      <li><p><strong>April 6th, 2019.</strong> Updated formatting and fixed typos. No substantive changes were made.</p></li>
+      <li><p><strong>January 2, 2016.</strong> Updated text to comply with various jurisdictional requirements.</p></li>
+    </ul>
+  </section>
+</section>
+<hr class="fullwidth">
+
+<footer id="app_foot">
+  <ul class="simple-footer plain clearfix">
+    <li class="appname"><a href="index.html"><strong>Svbtle</strong></a></li>
+    <li class=""><a href="about">About</a></li>
+    <li class=""><a href="support">Support</a></li>
+    <li class="spacer "><a href="terms">Terms</a></li>
+    <li class=""><a href="privacy">Privacy</a></li>
+    <li class="active"><a href="promise">Promise</a></li>
+    <li class="spacer "><a href="signup" data-turbolinks="false">Sign up</a></li>
+    <li class=""><a href="settings/blog" data-turbolinks="false">Log in</a></li>
+    <li class="signature">
+      <a href="https://neutralcorp.com" target="_blank">
+        Signed: Neutral Corporation
+      </a>
+    </li>
+  </ul>
+  <p class="copyright">&copy;2019 Svbtle</p>
+</footer>
+
+<div id="page-data" data-controller="Home" data-action="promise"></div>
+</body>
+</html>

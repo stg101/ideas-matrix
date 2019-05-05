@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>About Svbtle</title>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-41994323-1"></script>
+  <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-41994323-1', {'send_page_view': false});</script>
+  <link rel="canonical" href="about">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Svbtle, a publishing platform.">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="application-name" content="Svbtle">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://svbtle.com/about">
+  <meta property="og:title" content="About Svbtle">
+  <meta property="og:description" content="Svbtle, a publishing platform.">
+  <meta property="og:image" content="https://lightning.svbtle.com/assets/brand/logotype-43a675cdd95f8d6a949309ca77668f271ce90e992a2971d17da2dc4414524b91.png">
+  <meta property="og:site_name" content="Svbtle">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@svbtle">
+  <meta property="fb:app_id" content="346346195413177">
+  <link rel="shortcut icon" href="https://lightning.svbtle.com/assets/brand/icons/favicon-9e7faafc69375588ccd502cc6aea0441e043d5ff5d1fdcbcbf4ea8c45885880a.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://lightning.svbtle.com/assets/brand/icons/32-6f4cb26755931977d9c0ce73cc2f04fc1c314648b1a63f0a0a8c7313b2e281d3.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://lightning.svbtle.com/assets/brand/icons/32-6f4cb26755931977d9c0ce73cc2f04fc1c314648b1a63f0a0a8c7313b2e281d3.png">
+  <link rel="icon" sizes="192x192" href="https://lightning.svbtle.com/assets/brand/icons/192-9216c5c09f25f296607b4df4b6501a5c7307ec7c11477677af8ad7880941ffc6.png">
+  <link rel="apple-touch-icon" href="https://lightning.svbtle.com/assets/brand/icons/192-9216c5c09f25f296607b4df4b6501a5c7307ec7c11477677af8ad7880941ffc6.png">
+  <link rel="mask-icon" href="https://lightning.svbtle.com/assets/brand/logo_svgized-4208d0bcb6e20fe57191808ed31b1f621288e30b59dda4ced6c9d9466e497b03.svg" color="black">
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="4/1URgWxQkQflvQW0bHVF7NzUdzTF1AEPB00WsgLqwkUeLiT51DEfNDH703KPzuCH0vJeS4ok+XcFlqe+KLejw==" />
+  <link rel="stylesheet" media="all" href="https://lightning.svbtle.com/assets/legible/build.legible-a43bd031e05fccd6dc5a4fba8fb543b63bbe1794a88d9db8728fd5e815a0a31d.css" data-turbolinks-track="reload" />
+  <script src="https://lightning.svbtle.com/assets/legible/build.legible.shim-3d361235339c4e8a6eae5f8211d39bdcb97458537dd72bc1806dd6a430721290.js" data-turbolinks-track="reload"></script>
+  <script src="https://lightning.svbtle.com/assets/legible/build.legible-a36b8d9ab2de9d9dbe023a9acbcbee89c9caf74d0da5d333ed78834348c67560.js" data-turbolinks-track="reload"></script>
+</head>
+<body>
+<nav id="app_nav">
+  <a id="nav_title" href="index.html">Svbtle<span class="chevron-right"></span></a>
+  <a class="push_to_close">Close</a>
+  <ul id="page_nav" class="plain">
+    <li>
+      <a href="index.html">
+        <span class="title">Home</span><span class="arrow"></span>
+      </a>
+    </li>
+    <li>
+      <a href="about" class="">
+        <span class="title">About</span><span class="arrow"></span>
+      </a>
+    </li>
+    <li>
+      <a href="support">
+        <span class="title">Support</span><span class="arrow"></span>
+      </a>
+    </li>
+    <li class="small spacer">
+      <a href="signup">
+        <span class="title">Sign up</span><span class="arrow"></span>
+      </a>
+    </li>
+    <li class="small">
+      <a href="settings/blog">
+        <span class="title">Log in</span><span class="arrow"></span>
+      </a>
+    </li>
+  </ul>
+</nav>
+
+<section id="about-main" class="page text">
+  <section class="container">
+    <h1 class="huge">About</h1>
+    <h2>Svbtle is a publishing platform designed from the ground up to work the same way your brain does. It helps you think.</h2>
+    <p>The platform includes everything you need to organize, develop, and share your thoughts, stories, and ideas with the world.</p>
+  </section>
+  <section class="about-image about-dashboard slide dark">
+    <figure class="about-dashboard-image">
+      <figcaption><p>Figure 1. Dashboard<</p></figcaption>
+    </figure>
+  </section>
+  <section class="container text">
+    <p>
+      <img src="https://lightning.svbtle.com/assets/legible/arrow-right-black-b7f0a3f71ee762633731aa3577af772e2653c1b16d6a24d2b8d5ad15daa5b7ed.svg" class="arrow-up" alt="Up arrow.">
+      <strong>The dashboard</strong> is a flow of unpublished ideas, or draft works-in-progress, on the left side, and a list of published articles on the right. It&rsquo;s designed to help you curate thoughts and stories, work on them slowly, and publish when you&rsquo;re ready.
+    </p>
+    <hr>
+    <h2>Why use Svbtle?</h2>
+    <h4>Design</h4>
+    <p>Svbtle is intentionally designed. That means we base our design decisions on foundational principles and then we obsess over details until we get things right. The dashboard encourages you to dump ideas, links, and thoughts into a flow of draft posts, and then makes it easy to slowly sculpt those ideas into publishable articles. Article and blog pages are clean, fast, and legible. Everything just feels natural.</p>
+    <h4>Experience</h4>
+    <p>Svbtle has everything you need and nothing you don&rsquo;t. We&rsquo;ve worked hard to remove potential distractions, so only the most essential features remain. <img src="https://lightning.svbtle.com/assets/icons/markdown/svg/markdown-mark-solid-e87f232f1d5e10930c3645b362c9e337d129b0c57d386f66ec00dc28920ec84d.svg" class="about-markdown" alt="Markdown Mark logo."> Articles on Svbtle are written in a format called <a href="http://daringfireball.net/projects/markdown/" target="_blank">Markdown</a>, which converts into HTML. (Don&rsquo;t worry; it&rsquo;s easy to learn.) And no matter how you format your writing, the platform makes it look great.</p>
+  </section>
+  <section class="about-image about-writing slide dark">
+    <figure class="about-writing-image">
+      <figcaption><p>Figure 2. The Editor</p></figcaption>
+    </figure>
+  </section>
+  <section class="container text">
+    <p>
+      <img src="https://lightning.svbtle.com/assets/legible/arrow-right-black-b7f0a3f71ee762633731aa3577af772e2653c1b16d6a24d2b8d5ad15daa5b7ed.svg" class="arrow-up" alt="Up arrow.">
+      <strong>The editor</strong> was built to help you focus on writing. It&rsquo;s deceptively simple &mdash; Svbtle supports hosted images, embedded videos (from YouTube, Vimeo, and other sites), Tweets, and more. And if you need advanced control, the editor supports extended Markdown features like footnotes and code blocks &mdash; or even raw <code>HTML</code>.
+    </p>
+    <hr>
+    <h2>The reading experience</h2>
+    <p>A thoughtfully designed writing experience deserves a carefully considered, enjoyable reading experience. So we&rsquo;ve spent a lot of time making sure the reading experience on Svbtle is great regardless of device or screen type.</p>
+  </section>
+  <section class="about-image about-reading slide dark">
+    <figure class="about-reading-image">
+      <figcaption><p>Figure 3. Article &amp; Blog/p></figcaption>
+    </figure>
+  </section>
+  <section class="container text">
+    <p>
+      <img src="https://lightning.svbtle.com/assets/legible/arrow-right-black-b7f0a3f71ee762633731aa3577af772e2653c1b16d6a24d2b8d5ad15daa5b7ed.svg" class="arrow-up" alt="Up arrow.">
+      <strong>Articles and blogs</strong> are clean and legible. They&rsquo;ve been obsessively built to be fast, deceptively simple, reliable, and beautiful.
+    </p>
+    <hr>
+    <h3>A platform with principles</h3>
+    <p>We care about your work, we respect your privacy, and we value your support of our mission. Svbtle membership comes with the <a href="promise">Forever Promise</a>, our commitment that the Svbtle service and published content will remain available on the web forever. You don&rsquo;t have to worry about link-rot or &ldquo;sunsetting&rdquo;. We&rsquo;re an enduring company, and we&rsquo;re here to stay.</p>
+    <p>By design, Svbtle feels extremely minimal. We have focused all of our attention on perfecting the writing and reading experiences, and we&rsquo;ve purposefully minimized reader interaction. It&rsquo;s part of an intentional design strategy that we hope you&rsquo;ll enjoy.</p>
+    <p>Questions? Say hello: <a href="mailto:concierge@svbtle.com?subject=Hello,%20there">concierge@svbtle.com</a></p>
+  </section>
+  <br><br>
+  <section id="about-ready" class="ready about slide dark clearfix">
+    <h4>Ready to try Svbtle? Awesome.</h4>
+    <a href="signup" class="harsh arrow white" data-turbolinks="false">Sign up</a>
+  </section>
+</section>
+<footer id="app_foot">
+  <ul class="simple-footer plain clearfix">
+    <li class="appname"><a href="index.html"><strong>Svbtle</strong></a></li>
+    <li class="active"><a href="about">About</a></li>
+    <li class=""><a href="support">Support</a></li>
+    <li class="spacer "><a href="terms">Terms</a></li>
+    <li class=""><a href="privacy">Privacy</a></li>
+    <li class=""><a href="promise">Promise</a></li>
+    <li class="spacer "><a href="signup" data-turbolinks="false">Sign up</a></li>
+    <li class=""><a href="settings/blog" data-turbolinks="false">Log in</a></li>
+    <li class="signature">
+      <a href="https://neutralcorp.com" target="_blank">
+        Signed: Neutral Corporation
+      </a>
+    </li>
+  </ul>
+  <p class="copyright">&copy;2019 Svbtle</p>
+</footer>
+
+<div id="page-data" data-controller="Home" data-action="about"></div>
+</body>
+</html>

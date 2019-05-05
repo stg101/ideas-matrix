@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <title>Forgot password</title>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-41994323-1"></script>
+  <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-41994323-1');</script>
+  <meta charset="utf-8">
+  <link rel="preconnect" href="https://lightning.svbtle.com" crossorigin>
+  <link rel="preconnect" href="https://use.typekit.com" crossorigin>
+  <link rel="canonical" href="forgot" />
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Svbtle, a publishing platform."/>
+  <meta name="theme-color" content="#ffffff">
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://svbtle.com/forgot" />
+  <meta property="og:title" content="Forgot password" />
+  <meta property="og:description" content="Svbtle, a publishing platform." />
+  <meta property="og:image" content="https://lightning.svbtle.com/assets/brand/logotype-43a675cdd95f8d6a949309ca77668f271ce90e992a2971d17da2dc4414524b91.png" />
+  <meta property="og:site_name" content="Svbtle" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:site" content="@svbtle" />
+  <meta property="fb:app_id" content="346346195413177" />
+  <link rel="shortcut icon" href="https://lightning.svbtle.com/assets/brand/icons/favicon-9e7faafc69375588ccd502cc6aea0441e043d5ff5d1fdcbcbf4ea8c45885880a.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://lightning.svbtle.com/assets/brand/icons/32-6f4cb26755931977d9c0ce73cc2f04fc1c314648b1a63f0a0a8c7313b2e281d3.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://lightning.svbtle.com/assets/brand/icons/32-6f4cb26755931977d9c0ce73cc2f04fc1c314648b1a63f0a0a8c7313b2e281d3.png">
+  <link rel="icon" sizes="192x192" href="https://lightning.svbtle.com/assets/brand/icons/192-9216c5c09f25f296607b4df4b6501a5c7307ec7c11477677af8ad7880941ffc6.png">
+  <meta name="application-name" content="Svbtle">
+  <link rel="apple-touch-icon" href="https://lightning.svbtle.com/assets/brand/icons/192-9216c5c09f25f296607b4df4b6501a5c7307ec7c11477677af8ad7880941ffc6.png">
+  <link rel="mask-icon" href="https://lightning.svbtle.com/assets/brand/logo_svgized-4208d0bcb6e20fe57191808ed31b1f621288e30b59dda4ced6c9d9466e497b03.svg" color="black">
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="kPXZkeXrBnEv72VBEsQj2GXfoebBPMk0IyQa39y2K/pncDVEBwqASeC+fhoJSs1Nyec5QzwDCtXDL3Qb7B9efA==" />
+  <script>(function(d) {var config = {kitId: 'ked7yva',scriptTimeout: 1000,async: true},h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='https://use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)})(document);</script>
+  <link rel="stylesheet" media="all" href="https://lightning.svbtle.com/assets/build.home-91cf8100766bcc7af589c9a2f8f92f67f2f8d2e136b7e25cff1bf7b4ec9abd93.css" data-turbolinks-track="reload" />
+  <script src="https://lightning.svbtle.com/assets/build.home-77056a232e4a45b4106eeb8b9f63b2dfa3bc6d25bb3df6ab9ad827b0c03e6c83.js" data-turbolinks-track="reload"></script>
+</head>
+<body class="passwords new">
+
+<figure id="loading">&nbsp;</figure>
+<nav id="overlord" class="">
+  <figure id="logo_top" class="back">
+    <a href="settings/blog">Svbtle</a>
+  </figure>
+  <h2 id="nav_title" class="">Forgot password</h2>
+  <figure id="hamburger">
+    <a href="forgot#menu" id="hamburger_button">Menu</a>
+  </figure>
+  <ul id="dropdown" class="">
+    <li class="dropdown_logo">
+      <a href="index.html" class="logoize">svbtle</a>
+    </li>
+    <li><a href="about">about</a></li>
+    <li><a href="support">support</a></li>
+    <li><a href="signup">sign up</a></li>
+    <li><a href="settings/blog">log in</a></li>
+    <li><a href="http://twitter.com/svbtle" target="_blank"><br/>@svbtle</a></li>
+  </ul>
+</nav>
+<div id="whiteout"></div>
+
+<section id="container" class="normal form breathe">
+  <h1 class="title smaller">Forgot password</h1>
+  <form class="keyable main_form" id="new_user" action="forgot" accept-charset="UTF-8" method="post"><input name="utf8" type="hidden" value="&#x2713;" /><input type="hidden" name="authenticity_token" value="B+Tm9Fa5/SjBX4Hkly7/8i94R8db1+yLQj1bu7rEqunwYQohtFh7EA4Omr+MoBFng0DfYqboL2qiNjV/im3fbw==" />
+  
+  <div class="input_box active last">
+  <label for="user_login">Email address</label>
+  <input placeholder="What&#39;s your email?" class="pane_input active" autofocus="autofocus" type="text" name="user[login]" id="user_login" />
+  </div>
+  <div class="submit_button">
+  <a href="forgot#submit" class="buttonize submit_form">Reset</a>
+  </div>
+  <br/><br/><br/><br/>
+</form></section>
+<footer id="foot">
+  <figure id="logo_foot"><a href="index.html">Svbtle</a></figure>
+  <a href="terms" style="color: #ccc; margin-left: 25px;">Terms</a> <span style="color: #ccc;">•</span> <a href="privacy" style="color: #ccc;">Privacy</a> 
+  <span style="color: #ccc;">•</span> <a href="promise" style="color: #ccc; margin-right: 15px;">Promise</a>
+  <br/><br/>
+</footer>
+<div id="page-data" data-controller="UsersPasswords" data-action="new"></div>
+</body>
+</html>

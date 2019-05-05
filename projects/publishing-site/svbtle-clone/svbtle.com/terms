@@ -1,0 +1,212 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Terms of Service</title>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-41994323-1"></script>
+  <script>window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'UA-41994323-1', {'send_page_view': false});</script>
+  <link rel="canonical" href="terms">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Svbtle, a publishing platform.">
+  <meta name="theme-color" content="#ffffff">
+  <meta name="application-name" content="Svbtle">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://svbtle.com/terms">
+  <meta property="og:title" content="Terms of Service">
+  <meta property="og:description" content="Svbtle, a publishing platform.">
+  <meta property="og:image" content="https://lightning.svbtle.com/assets/brand/logotype-43a675cdd95f8d6a949309ca77668f271ce90e992a2971d17da2dc4414524b91.png">
+  <meta property="og:site_name" content="Svbtle">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:site" content="@svbtle">
+  <meta property="fb:app_id" content="346346195413177">
+  <link rel="shortcut icon" href="https://lightning.svbtle.com/assets/brand/icons/favicon-9e7faafc69375588ccd502cc6aea0441e043d5ff5d1fdcbcbf4ea8c45885880a.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="https://lightning.svbtle.com/assets/brand/icons/32-6f4cb26755931977d9c0ce73cc2f04fc1c314648b1a63f0a0a8c7313b2e281d3.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="https://lightning.svbtle.com/assets/brand/icons/32-6f4cb26755931977d9c0ce73cc2f04fc1c314648b1a63f0a0a8c7313b2e281d3.png">
+  <link rel="icon" sizes="192x192" href="https://lightning.svbtle.com/assets/brand/icons/192-9216c5c09f25f296607b4df4b6501a5c7307ec7c11477677af8ad7880941ffc6.png">
+  <link rel="apple-touch-icon" href="https://lightning.svbtle.com/assets/brand/icons/192-9216c5c09f25f296607b4df4b6501a5c7307ec7c11477677af8ad7880941ffc6.png">
+  <link rel="mask-icon" href="https://lightning.svbtle.com/assets/brand/logo_svgized-4208d0bcb6e20fe57191808ed31b1f621288e30b59dda4ced6c9d9466e497b03.svg" color="black">
+  <meta name="csrf-param" content="authenticity_token" />
+<meta name="csrf-token" content="lW6gpWC9bg5Yk2ki930lys/5KlSCOSssOr1bZ1GFrZ1i60xwglzoNpfCcnns88tfY8Gy8X8G6M3atjWjYSzYGw==" />
+  <link rel="stylesheet" media="all" href="https://lightning.svbtle.com/assets/legible/build.legible-a43bd031e05fccd6dc5a4fba8fb543b63bbe1794a88d9db8728fd5e815a0a31d.css" data-turbolinks-track="reload" />
+  <script src="https://lightning.svbtle.com/assets/legible/build.legible.shim-3d361235339c4e8a6eae5f8211d39bdcb97458537dd72bc1806dd6a430721290.js" data-turbolinks-track="reload"></script>
+  <script src="https://lightning.svbtle.com/assets/legible/build.legible-a36b8d9ab2de9d9dbe023a9acbcbee89c9caf74d0da5d333ed78834348c67560.js" data-turbolinks-track="reload"></script>
+</head>
+<body>
+<nav id="app_nav">
+  <a id="nav_title" href="index.html">Svbtle<span class="chevron-right"></span></a>
+  <a class="push_to_close">Close</a>
+  <ul id="page_nav" class="plain">
+    <li>
+      <a href="index.html">
+        <span class="title">Home</span><span class="arrow"></span>
+      </a>
+    </li>
+    <li>
+      <a href="about" class="">
+        <span class="title">About</span><span class="arrow"></span>
+      </a>
+    </li>
+    <li>
+      <a href="support">
+        <span class="title">Support</span><span class="arrow"></span>
+      </a>
+    </li>
+    <li class="small spacer">
+      <a href="signup">
+        <span class="title">Sign up</span><span class="arrow"></span>
+      </a>
+    </li>
+    <li class="small">
+      <a href="settings/blog">
+        <span class="title">Log in</span><span class="arrow"></span>
+      </a>
+    </li>
+  </ul>
+</nav>
+
+<section id="legal-main" class="page navigable text">
+  <section class="container">
+    <h1 class="">Terms of Service</h1>
+    <h2>The following terms and conditions govern all use of the <span class="logoize">Svbtle</span> website and all content, services and products available at or through the website, including, but not limited to, Svbtle.com (&ldquo;Svbtle&rdquo;), (taken together, the Services).</h2>
+  </section>
+  <section class="container text">
+    <p>The Services is offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies and procedures that may be published from time to time on this Site by Svbtle (collectively, the &ldquo;Agreement&rdquo;).
+    </p>
+    <p>Please read this Agreement carefully before accessing or using the Services. By accessing or using any part of the web site, you agree to become bound by the terms and conditions of this agreement. If you do not agree to all the terms and conditions of this agreement, then you may not access or use the Services. If these terms and conditions are considered an offer by Svbtle, acceptance is expressly limited to these terms. The Services is available only to individuals who are at least 13 years old.
+    </p>
+    <hr>
+  </section>
+  <section class="container text">
+    <ol class="home">
+      <li>
+        <p><strong>Your Svbtle Account.</strong></p>
+        If you create an account on the Services, you are responsible for maintaining the security of your account, and you are fully responsible for all activities that occur under the account and any other actions taken in connection with the account. You must immediately notify Svbtle of any unauthorized uses of your account or any other breaches of security. Svbtle will not be liable for any acts or omissions by You, including any damages of any kind incurred as a result of such acts or omissions. You must be a human. Accounts registered by "bots" or other automated methods are not permitted. You must provide your legal full name, a valid email address, and any other information requested in order to complete the signup process. Your login may only be used by one person - a single login shared by multiple people is not permitted. You may create separate logins for as many people as your plan allows. You may not use the Services for any illegal or unauthorized purpose. You must not, in the use of the Services, violate any laws in your jurisdiction (including but not limited to copyright or trademark laws).
+      </li>
+      <li>
+        <p><strong>Payment and Renewal.</strong></p>
+        <ol>
+          <li>
+            <p><strong>General Terms.</strong></p>
+            <p>Optional paid services such as extra capacity are available on the Services (any such services, an "Upgrade"). By selecting an Upgrade you agree to pay Svbtle the monthly or annual subscription fees indicated for that service (additional payment terms are described below). Payments will be charged on a pre-pay basis on the day you sign up for an Upgrade and will cover the use of that service for a monthly or annual subscription period as indicated. Upgrade fees are not refundable.</p>
+          </li>
+          <li>
+            <p><strong>Automatic Renewal.</strong></p>
+            <p>Unless you notify Svbtle before the end of the applicable subscription period that you want to cancel an Upgrade, your Upgrade subscription will automatically renew and you authorize us to collect the then-applicable annual or monthly subscription fee for such Upgrade (as well as any taxes) using any credit card or other payment mechanism we have on record for you. Upgrades can be canceled at any time in the Settings section of your account's dashboard.</p>
+          </li>
+        </ol>
+      </li>
+      <li>
+        <p><strong>Svbtle.</strong></p>
+        <ol>
+          <li>
+            <p><strong>Fees; Payment.</strong></p>
+            <p>By signing up for a Svbtle account you agree to pay Svbtle the monthly fees indicated to you when you registered for the service in exchange for the Svbtle services. Applicable fees will be invoiced starting from the day your paid account are established and in advance of using such services. Svbtle reserves the right to change the payment terms and fees upon thirty (30) days prior written notice to you. Svbtle accounts can be canceled by you at anytime on 30 days written notice to Svbtle.</p>
+          </li>
+          <li>
+            <p><strong>Support.</strong></p>
+            <p>Svbtle include access to email support. "Email support" means the ability to make requests for technical support assistance by email at any time (with reasonable efforts by Svbtle to respond within one business day) concerning the use of Svbtle. All Svbtle support will be provided in accordance with Svbtle standard Svbtle practices, procedures and policies.</p>
+          </li>
+        </ol>
+      </li>
+      <li>
+        <p><strong>Svbtle API and website.</strong></p>
+        <p>Customers may access their Svbtle account data via an API (Application Program Interface). Any use of the API or website, including use of the API or website through a third-party product that accesses Svbtle, is bound by these Terms of Service plus the following specific terms:</p>
+        <ol>
+          <li>
+            <p><strong>Damage and liability.</strong></p>
+            <p>You expressly understand and agree that Svbtle shall not be liable for any direct, indirect, incidental, special, consequential or exemplary damages, including but not limited to, damages for loss of profits, goodwill, use, data or other intangible losses (even if Svbtle has been advised of the possibility of such damages), resulting from your use of the API or third-party products that access data via the API.</p>
+          </li>
+          <li>
+            <p><strong>Rate limiting.</strong></p>
+            <p>Abuse or excessively frequent requests to Svbtle via the API or website may result in the temporary or permanent suspension of your account's access to the API or website. Svbtle, in its sole discretion, will determine abuse or excessive usage of the API or website. Svbtle will make a reasonable attempt via email to warn the account owner prior to suspension.</p>
+          </li>
+          <li>
+            <p><strong>Discontinuation.</strong></p>
+            <p>Svbtle reserves the right at any time to modify or discontinue, temporarily or permanently, your access to the API or website (or any part thereof) with or without notice.</p>
+          </li>
+        </ol>
+      </li>
+      <li>
+        <p><strong>Marketing.</strong></p>
+        <p>As a paid customer, you give Svbtle a perpetual world-wide license to use your company&rsquo;s assets and logos, unless Svbtle agrees in writing otherwise. These assets and logos will be used purely for marketing and sales efforts, such as being displayed on the home page.</p>
+      </li>
+      <li>
+        <p><strong>Copyright Infringement.</strong></p>
+        <p>As Svbtle asks others to respect its intellectual property rights, it respects the intellectual property rights of others. If you believe that material located on or linked to by Svbtle violates your copyright, you are encouraged to notify Svbtle. Svbtle will respond to all such notices, including as required or appropriate by removing the infringing material or disabling all links to the infringing material. Svbtle will terminate a visitor's access to and use of the Services if, under appropriate circumstances, the visitor is determined to be a repeat infringer of the copyrights or other intellectual property rights of Svbtle or others. In the case of such termination, Svbtle will have no obligation to provide a refund of any amounts previously paid to Svbtle.</p>
+      </li>
+      <li>
+        <p><strong>Intellectual Property.</strong></p>
+        <p>This Agreement does not transfer from Svbtle to you any Svbtle or third party intellectual property, and all right, title and interest in and to such property will remain (as between the parties) solely with Svbtle. Svbtle, the Svbtle logo, and all other trademarks, service marks, graphics and logos used in connection with Svbtle, or the Services are trademarks or registered trademarks of Svbtle or Svbtle licensors. Other trademarks, service marks, graphics and logos used in connection with the Services may be the trademarks of other third parties. Your use of the Services grants you no right or license to reproduce or otherwise use any Svbtle or third-party trademarks.</p>
+      </li>
+      <li>
+        <p><strong>Use License</strong></p>
+        <p>Under this license you may not:</p>
+          <ol class="text">
+            <li><p>Attempt to decompile or reverse engineer any software contained on Svbtle's web site or API.</p></li>
+            <li><p>Access the Site or Services in order to build a similar or competitive service.</p></li>
+          </ol>
+          <p>This license shall automatically terminate if you violate any of these restrictions and may be terminated by Svbtle at any time.</p>
+      </li>
+      <li>
+        <p><strong>Changes.</strong></p>
+        <p>Svbtle reserves the right, at its sole discretion, to modify or replace any part of this Agreement. It is your responsibility to check this Agreement periodically for changes. Your continued use of or access to the Services following the posting of any changes to this Agreement constitutes acceptance of those changes. Svbtle may also, in the future, offer new services and/or features through the Services (including, the release of new tools and resources). Such new features and/or services shall be subject to the terms and conditions of this Agreement.</p>
+      </li>
+      <li>
+        <p><strong>Termination.</strong></p>
+        <p>Svbtle may terminate your access to all or any part of the Services at any time, with or without cause, with or without notice, effective immediately. If you wish to terminate this Agreement or your Svbtle account (if you have one), you may simply discontinue using the Services. Notwithstanding the foregoing, if you have a paid Svbtle account, such account can only be terminated by Svbtle if you materially breach this Agreement and fail to cure such breach within thirty (30) days from Svbtle’s notice to you thereof; provided that, Svbtle can terminate the Services immediately as part of a general shut down of our service. All provisions of this Agreement which by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, indemnity and limitations of liability.</p>
+      </li>
+      <li>
+        <p><strong>Disclaimer of Warranties.</strong></p>
+        <p>The Services is provided “as is”. Svbtle and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither Svbtle nor its suppliers and licensors, makes any warranty that the Services will be error free or that access thereto will be continuous or uninterrupted. You understand that you download from, or otherwise obtain content or services through, the Services at your own discretion and risk.</p>
+      </li>
+      <li>
+        <p><strong>Limitation of Liability.</strong></p>
+        <p>In no event will Svbtle, or its suppliers or licensors, be liable with respect to any subject matter of this agreement under any contract, negligence, strict liability or other legal or equitable theory for: (i) any special, incidental or consequential damages; (ii) the cost of procurement for substitute products or services; (iii) for interruption of use or loss or corruption of data; or (iv) for any amounts that exceed the fees paid by you to Svbtle under this agreement during the twelve (12) month period prior to the cause of action. Svbtle shall have no liability for any failure or delay due to matters beyond their reasonable control. The foregoing shall not apply to the extent prohibited by applicable law.</p>
+      </li>
+      <li>
+        <p><strong>General Representation and Warranty.</strong></p>
+        <p>You represent and warrant that (i) your use of the Services will be in strict accordance with the Svbtle Privacy Policy, with this Agreement and with all applicable laws and regulations (including without limitation any local laws or regulations in your country, state, city, or other governmental area, regarding online conduct and acceptable content, and including all applicable laws regarding the transmission of technical data exported from the USA or the country in which you reside) and (ii) your use of the Services will not infringe or misappropriate the intellectual property rights of any third party.</p>
+      </li>
+      <li>
+        <p><strong>Indemnification.</strong></p>
+        <p>You agree to indemnify and hold harmless Svbtle, its contractors, and its licensors, and their respective directors, officers, employees and agents from and against any and all claims and expenses, including attorneys’ fees, arising out of your use of the Services, including but not limited to your violation of this Agreement.</p>
+      </li>
+      <li>
+        <p><strong>Miscellaneous.</strong></p>
+        <p>This Agreement constitutes the entire agreement between Svbtle and you concerning the subject matter hereof, and they may only be modified by a written amendment signed by an authorized executive of Svbtle, or by the posting by Svbtle of a revised version. Except to the extent applicable law, if any, provides otherwise, this Agreement, any access to or use of the Services will be governed by the laws of the USA, excluding its conflict of law provisions, and the proper venue for any disputes arising out of or relating to any of the same will be the state and federal courts located in the USA. Except for claims for injunctive or equitable relief or claims regarding intellectual property rights (which may be brought in any competent court without the posting of a bond), any dispute arising under this Agreement shall be finally settled in accordance with the Comprehensive Arbitration Rules of the Judicial Arbitration and Mediation Service, Inc. (“JAMS”) by three arbitrators appointed in accordance with such Rules. The arbitration shall take place in the USA, in the English language and the arbitral decision may be enforced in any court. The prevailing party in any action or proceeding to enforce this Agreement shall be entitled to costs and attorneys’ fees. If any part of this Agreement is held invalid or unenforceable, that part will be construed to reflect the parties’ original intent, and the remaining portions will remain in full force and effect. A waiver by either party of any term or condition of this Agreement or any breach thereof, in any one instance, will not waive such term or condition or any subsequent breach thereof. You may assign your rights under this Agreement to any party that consents to, and agrees to be bound by, its terms and conditions; Svbtle may assign its rights under this Agreement without condition. This Agreement will be binding upon and will inure to the benefit of the parties, their successors and permitted assigns.</p>
+      </li>
+    </ol>
+    <hr>
+    <h3>Changelog</h3>
+    <p>This Agreement was last modified on Friday, March 15th, 2019.</p>
+    <ul>
+      <li><p><strong>March 15, 2019.</strong> Updated formatting. No substantive changes were made.</p></li>
+      <li><p><strong>January 2, 2016.</strong> Minor updates to text.</p></li>
+    </ul>
+    <hr>
+    <p>If you have any questions or suggestions relating to this Terms of Service or to any of our practices, please <a href="mailto:hi@svbtle.com">contact us</a>.</p>
+  </section>
+</section>
+<hr class="fullwidth">
+<footer id="app_foot">
+  <ul class="simple-footer plain clearfix">
+    <li class="appname"><a href="index.html"><strong>Svbtle</strong></a></li>
+    <li class=""><a href="about">About</a></li>
+    <li class=""><a href="support">Support</a></li>
+    <li class="spacer active"><a href="terms">Terms</a></li>
+    <li class=""><a href="privacy">Privacy</a></li>
+    <li class=""><a href="promise">Promise</a></li>
+    <li class="spacer "><a href="signup" data-turbolinks="false">Sign up</a></li>
+    <li class=""><a href="settings/blog" data-turbolinks="false">Log in</a></li>
+    <li class="signature">
+      <a href="https://neutralcorp.com" target="_blank">
+        Signed: Neutral Corporation
+      </a>
+    </li>
+  </ul>
+  <p class="copyright">&copy;2019 Svbtle</p>
+</footer>
+
+<div id="page-data" data-controller="Home" data-action="terms"></div>
+</body>
+</html>
