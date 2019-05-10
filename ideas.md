@@ -5,3 +5,5 @@
 - Holi caracoli
 
 - Make a blog post about how to create a bot with rails and slack
+
+- Post rails project to heroku
