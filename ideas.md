@@ -9,3 +9,5 @@
 - Post rails project to heroku
 
 - Gem to make classroom groups
+
+- App to find people in concerts
