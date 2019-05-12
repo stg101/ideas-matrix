@@ -11,3 +11,5 @@
 - Gem to make classroom groups
 
 - App to find people in concerts
+  
+- Async web socket version problem with ruby rails bot
